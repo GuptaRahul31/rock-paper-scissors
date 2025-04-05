@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.choices {
+    margin: 20px 0;
+}
+button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: black;
+}
+#results {
+    margin-top: 30px;
+    font-size: 20px;
+    min-height: 100px;
+}
+.score {
+    margin-top: 20px;
+    font-weight: bold;
+}
